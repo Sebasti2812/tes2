@@ -3,3 +3,5 @@ blanco
 azul
 amarillo
 rojo
+negro 
+morado
